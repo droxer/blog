@@ -1,8 +1,8 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "title": "Distributed Thinking",
+  "url": "https://blog.droxer.me",
+  "domain": "blog.droxer.me",
+  "description": "Product, Engeering, Leadership.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
@@ -10,15 +10,15 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://blog.droxer.me"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://blog.droxer.me/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "droxer(Fei He).",
+    "twitterHandle": "droxer1985"
   },
   "publisher": {
     "name": "Publisher name. Update me."
