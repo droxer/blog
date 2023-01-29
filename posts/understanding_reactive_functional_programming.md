@@ -1,5 +1,5 @@
 ---
-title: 理解 Reactive Functional Programming.
+title: 理解 Reactive Functional Programming
 date: 2015-12-26
 scheduled: 2015-12-26
 tags: programming

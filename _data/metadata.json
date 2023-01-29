@@ -1,13 +1,13 @@
 {
-  "title": "Distributed Thinking",
+  "title": "droxer 的个人博客",
   "url": "https://blog.droxer.me",
   "domain": "blog.droxer.me",
-  "description": "Product, Engeering, Leadership.",
+  "description": "关于Product, Engeering, Leadership的一些思考",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "关于Product, Engeering, Leadership的一些思考.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://blog.droxer.me"
@@ -17,7 +17,7 @@
     "url": "https://blog.droxer.me/feed/feed.json"
   },
   "author": {
-    "name": "droxer(Fei He).",
+    "name": "droxer",
     "twitterHandle": "droxer1985"
   },
   "publisher": {

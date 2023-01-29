@@ -1,7 +1,7 @@
 ---
 title: Do the Right Things
-date: 2018-07-04
-scheduled: 2018-07-04
+date: 2015-12-31
+scheduled: 2015-12-31
 tags:
   - thoughts
 layout: layouts/post.njk
