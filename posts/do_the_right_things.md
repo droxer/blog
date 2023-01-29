@@ -1,11 +1,5 @@
----
-title: Do the Right Things
-date: 2015-12-31
-scheduled: 2015-12-31
-tags:
-  - thoughts
-layout: layouts/post.njk
----
+
+# Do the Right Things
 
 2015马上就要过去了，也到了公司一年一次的annual review的时候了。自己也需要和自己的sponsee们一起聊聊他们过去的一年，按照往年的模式，我们的回顾主要集中在下面三个方面：
 

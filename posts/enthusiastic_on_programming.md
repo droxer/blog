@@ -1,12 +1,6 @@
----
-title: 你有技术热情吗？
-description: 你有技术热情吗？
-date: 2015-10-28
-scheduled: 2015-10-28
-tags:
-  - programming
-layout: layouts/post.njk
----
+
+# 你有技术热情吗？
+
 
   最近一两年参加了很多的面试，技术热情作为 [ThoughtWorks](http://www.thoughtworks.com/) 技术文化最重要的组成部分，也成为了我们面试时候衡量一个人非常中重要的一个因素。
 

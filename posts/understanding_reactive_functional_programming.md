@@ -1,10 +1,5 @@
----
-title: 理解 Reactive Functional Programming
-date: 2015-12-26
-scheduled: 2015-12-26
-tags: programming
-layout: layouts/post.njk
----
+# 理解 Reactive Functional Programming
+
 
 自己在学习了解reactive functional programming的过程中，看了很多文章，视频，阅读了一些现有实现的源代码，甚至是自己去尝试实现一个简单的[reactive框架][1]。而在这些之后才对reactive funcational programming有一个一点点肤浅的理解。
 

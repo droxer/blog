@@ -1,12 +1,6 @@
----
-title: Https Explanation
-date: 2016-01-05
-scheduled: 2016-01-05
-tags:
-  - security
-  - web
-layout: layouts/post.njk
----
+
+# Https Explanation
+
 最近在看关于网络安全的一些知识，顺便又回顾了一下https的工作原理，这里根据自己的理解总结梳理。
 
 首先，我们要知道https并不是一个新的协议，它是通过在http协议基础之上使用SSL／TLS，来保证client和sever之间的通过一个安全的SSL连接来完成通讯。主要的目的是两个：

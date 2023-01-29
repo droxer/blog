@@ -1,11 +1,6 @@
----
-layout: layouts/base.njk
-title: 关于
-templateClass: tmpl-post
-eleventyNavigation:
-  key: About
-  order: 3
----
+
+# 关于我
+
 
 He Fei
 
