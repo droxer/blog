@@ -1,4 +1,3 @@
-# 个人博客
 
 ## 文章
 
@@ -6,5 +5,3 @@
 * [理解 Reactive Functional Programming](posts/understanding_reactive_functional_programming.md) 2015-12-26
 * [Do the Right Things](posts/do_the_right_things.md) 2015-12-31
 * [Https Explanation](posts/https_explanation.md) 2016-01-05
-
-## [关于我](about/index.md)
